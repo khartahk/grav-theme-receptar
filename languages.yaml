@@ -192,3 +192,24 @@ ru:
   MONTHS_OF_THE_YEAR: [Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, Ноябрь, Декабрь]
   DAYS_OF_THE_WEEK: [Понедельник, Вторник, Среда, Четверг, Пятница, Суббота, Воскресенье]
   READ_MORE: Подробнее
+
+sl:
+  SITE:
+    TITLE: Moji Recepti
+    DESCRIPTION: Nekaj mojih najljubših jedi
+    COPYRIGHT: © Copyright %s PC-IT s.p.
+  SUBSCRIBE: Prijavite se
+  TWEET: Tweet
+  SHARE: Deli
+  MONTHS_OF_THE_YEAR: [januar, februar, marec, april, maj, junij, julij, august, september, oktober, november, december]
+  DAYS_OF_THE_WEEK: [ponedeljek, torek, sreda, četrtek, petek, sobota, nedelja]
+  READ_MORE: Več
+  SEARCH: Išči
+  RANDOM_ARTICLE: Naključni recept
+  POPULAR_TAGS: Popularne oznake
+  LATEST_RECIPES: Najnovejši recepti
+  RELATED_POSTS: Povezano
+  SEARCH_FIELD: Vpiši in pritisni enter...
+  NEXT: naslednji
+  PREVIOUS: prejšnji
+  TOPICS: teme
