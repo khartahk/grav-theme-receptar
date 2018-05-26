@@ -206,6 +206,10 @@ sl:
   DAYS_OF_THE_WEEK: [ponedeljek, torek, sreda, četrtek, petek, sobota, nedelja]
   READ_MORE: Več
   SEARCH: Išči
+  SIMPLESEARCH:
+    QUERY: "Za:"
+    FOUND: najdenih
+    RESULT: objav
   RANDOM_ARTICLE: Naključne objave
   POPULAR_CATEGORIES: Kategorije
   POPULAR_TAGS: Oznake

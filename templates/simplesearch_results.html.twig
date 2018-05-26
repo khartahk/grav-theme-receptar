@@ -4,7 +4,7 @@
 <main id="main" class="site-main clearfix" role="main">
   <section id="search-results" class="search-results">
     <header class="page-header">
-      <h1 class="page-title">Query: <strong>{{ query }}</strong> found {{ search_results.count }} {{ 'result'|pluralize(search_results.count) }}</h1>
+      <h1 class="page-title">{{ 'SIMPLESEARCH.QUERY'|t }} <strong>{{ query }}</strong> {{ 'SIMPLESEARCH.FOUND'|t }} {{ search_results.count }} {{ 'SIMPLESEARCH.RESULT'|t|pluralize(search_results.count) }}</h1>
     </header>
     <div id="posts" class="posts posts-list clearfix">
     {% for page in search_results %}
