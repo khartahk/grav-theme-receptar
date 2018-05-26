@@ -31,7 +31,9 @@
     {% do assets.add('jquery',101) %}
     {% do assets.add('theme://js/slick.min.js') %}
     {% do assets.add('theme://js/scripts-global.js') %}
-
+    {% if config.plugins.simplesearch.enabled %}
+      {% do assets.add('plugins://simplesearch/js/simplesearch.js') %}
+    {% endif %}
   {% endblock %}
   {{ assets.js() }}
 
