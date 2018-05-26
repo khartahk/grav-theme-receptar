@@ -1487,7 +1487,12 @@
 
 				.sidebar .widget:first-child { margin: 0; }
 
-
+				.sidebar .widget_recent_entries ul.archives > li > span.label::before {
+					content: "("
+				}
+				.sidebar .widget_recent_entries ul.archives > li > span.label::after {
+					content: ")"
+				}
 
 		/**
 		 * Archives, Categories, Menu, Pages, Recent Comments, Recent Posts, NS Featured Posts and ZillaLikes widget
