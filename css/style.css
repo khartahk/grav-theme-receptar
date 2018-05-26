@@ -1487,11 +1487,11 @@
 
 				.sidebar .widget:first-child { margin: 0; }
 
-				.sidebar .widget_recent_entries ul.archives > li > span.label::before {
-					content: "("
+				.sidebar .widget_recent_entries > ul > li > a > span.label::before {
+					content: "(";
 				}
-				.sidebar .widget_recent_entries ul.archives > li > span.label::after {
-					content: ")"
+				.sidebar .widget_recent_entries > ul > li > a > span.label::after {
+					content: ")";
 				}
 
 		/**
