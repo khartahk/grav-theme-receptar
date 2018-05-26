@@ -213,3 +213,5 @@ sl:
   NEXT: naslednji
   PREVIOUS: prejšnji
   TOPICS: teme
+  PLUGIN_SIMPLESEARCH:
+    SEARCH_PLACEHOLDER: Išči
