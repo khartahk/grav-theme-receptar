@@ -195,8 +195,8 @@ ru:
 
 sl:
   SITE:
-    TITLE: Moji Recepti
-    DESCRIPTION: Nekaj mojih najljubših jedi
+    TITLE: Moj Blog
+    DESCRIPTION: IT in moje priljubljene jedi
     COPYRIGHT: © Copyright %s PC-IT s.p.
   SUBSCRIBE: Prijavite se
   TWEET: Tweet
@@ -205,10 +205,10 @@ sl:
   DAYS_OF_THE_WEEK: [ponedeljek, torek, sreda, četrtek, petek, sobota, nedelja]
   READ_MORE: Več
   SEARCH: Išči
-  RANDOM_ARTICLE: Naključni recept
+  RANDOM_ARTICLE: Naključni članek
   POPULAR_TAGS: Popularne oznake
-  LATEST_RECIPES: Najnovejši recepti
-  RELATED_POSTS: Povezano
+  LATEST_RECIPES: Najnovejši članki
+  RELATED_POSTS: Povezani članki
   SEARCH_FIELD: Vpiši in pritisni enter...
   NEXT: naslednji
   PREVIOUS: prejšnji
