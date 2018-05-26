@@ -207,7 +207,7 @@ sl:
   READ_MORE: Več
   SEARCH: Išči
   SIMPLESEARCH:
-    QUERY: "Za:"
+    QUERY: "Za iskanje:"
     FOUND: najdenih
     RESULT: objav
   RANDOM_ARTICLE: Naključne objave
