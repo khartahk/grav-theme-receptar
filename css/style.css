@@ -538,7 +538,7 @@
 		.secondary .site-branding {
 			float: none;
 			display: block;
-			margin-bottom: 5rem;
+			margin-bottom: 2rem;
 		}
 
 			.site-title {
@@ -1465,7 +1465,7 @@
 
 	.sidebar {
 		float: none;
-		margin-top: 5rem;
+		margin-top: 1rem;
 	}
 
 
@@ -1483,7 +1483,7 @@
 
 		/* Sidebar widgets */
 
-			.sidebar .widget { margin: 3.62rem 0 0; }
+			.sidebar .widget { margin: 1.62rem 0 0; }
 
 				.sidebar .widget:first-child { margin: 0; }
 

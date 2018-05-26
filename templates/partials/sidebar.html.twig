@@ -1,15 +1,15 @@
+{% if config.plugins.simplesearch.enabled %}
+<aside class="widget HTML">
+  {# <h2 class="widget-title">{{ 'SEARCH'|t }}</h2> #}
+    {% include 'partials/simplesearch_searchbox.html.twig' %}
+</aside>
+{% endif %}
+
 {% for module in page.collection({'items':{'@taxonomy.category': 'sidebar'},'order': {'by': 'default', 'dir': 'asc'}}) %}
   {% if module.template %}
     {% include 'sidebar/' ~ module.template ~ '.html.twig' %}
   {% endif %}
 {% endfor %}
-
-{% if config.plugins.simplesearch.enabled %}
-<aside class="widget HTML">
-  <h2 class="widget-title">{{ 'SEARCH'|t }}</h2>
-    {% include 'partials/simplesearch_searchbox.html.twig' %}
-</aside>
-{% endif %}
 
 {% if config.plugins.random.enabled %}
 <aside class="widget HTML">
@@ -20,8 +20,15 @@
 
 {% if config.plugins.taxonomylist.enabled %}
 <aside class="widget widget_tag_cloud">
+  <h2 class="widget-title">{{ 'POPULAR_CATEGORIES'|t }}</h2>
+    {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'category'} %}
+</aside>
+{% endif %}
+
+{% if config.plugins.taxonomylist.enabled %}
+<aside class="widget widget_tag_cloud">
   <h2 class="widget-title">{{ 'POPULAR_TAGS'|t }}</h2>
-    {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'tag'} %}
+    {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'teg'} %}
 </aside>
 {% endif %}
 

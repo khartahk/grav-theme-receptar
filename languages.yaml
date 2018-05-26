@@ -12,6 +12,7 @@ en:
   SEARCH: Search
   RANDOM_ARTICLE: Random Article
   POPULAR_TAGS: Popular Tags
+  POPULAR_CATEGORIES: Categories
   LATEST_RECIPES: Latest Recipes
   RELATED_POSTS: Related
   SEARCH_FIELD: Type and press enter...
@@ -205,10 +206,11 @@ sl:
   DAYS_OF_THE_WEEK: [ponedeljek, torek, sreda, četrtek, petek, sobota, nedelja]
   READ_MORE: Več
   SEARCH: Išči
-  RANDOM_ARTICLE: Naključni članek
-  POPULAR_TAGS: Popularne oznake
-  LATEST_RECIPES: Najnovejši članki
-  RELATED_POSTS: Povezani članki
+  RANDOM_ARTICLE: Naključne objave
+  POPULAR_CATEGORIES: Kategorije
+  POPULAR_TAGS: Oznake
+  LATEST_RECIPES: Nove objave
+  RELATED_POSTS: Povezane objave
   SEARCH_FIELD: Vpiši in pritisni enter...
   NEXT: naslednji
   PREVIOUS: prejšnji
