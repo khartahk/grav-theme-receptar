@@ -12,7 +12,6 @@ en:
   SEARCH: Search
   RANDOM_ARTICLE: Random Article
   POPULAR_TAGS: Popular Tags
-  POPULAR_CATEGORIES: Categories
   LATEST_RECIPES: Latest Recipes
   RELATED_POSTS: Related
   SEARCH_FIELD: Type and press enter...
@@ -193,31 +192,3 @@ ru:
   MONTHS_OF_THE_YEAR: [Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, Ноябрь, Декабрь]
   DAYS_OF_THE_WEEK: [Понедельник, Вторник, Среда, Четверг, Пятница, Суббота, Воскресенье]
   READ_MORE: Подробнее
-
-sl:
-  SITE:
-    TITLE: Moj Blog
-    DESCRIPTION: IT in moje priljubljene jedi
-    COPYRIGHT: © Copyright %s PC-IT s.p.
-  SUBSCRIBE: Prijavite se
-  TWEET: Tweet
-  SHARE: Deli
-  MONTHS_OF_THE_YEAR: [januar, februar, marec, april, maj, junij, julij, august, september, oktober, november, december]
-  DAYS_OF_THE_WEEK: [ponedeljek, torek, sreda, četrtek, petek, sobota, nedelja]
-  READ_MORE: Več
-  SEARCH: Išči
-  SIMPLESEARCH:
-    QUERY: "Za iskanje:"
-    FOUND: najdenih
-    RESULT: objav
-  RANDOM_ARTICLE: Naključne objave
-  POPULAR_CATEGORIES: Kategorije
-  POPULAR_TAGS: Oznake
-  LATEST_RECIPES: Arhiv
-  RELATED_POSTS: Povezane objave
-  SEARCH_FIELD: Vpiši in pritisni enter...
-  NEXT: naslednji
-  PREVIOUS: prejšnji
-  TOPICS: teme
-  PLUGIN_SIMPLESEARCH:
-    SEARCH_PLACEHOLDER: Išči
